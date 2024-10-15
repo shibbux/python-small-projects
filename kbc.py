@@ -43,31 +43,4 @@ quiz(ans, ques, rupees, name)
 
 
 
-#name = naam
-#points
-#answers
-#questions
 
-# while (power!=60000000):
-#     print("Capital of France?")
-#     inp = input("enter your answer : ")
-#     if inp in ans:
-#         print("hurray you won 1000 rs")
-#         power = power + 1000
-#         print("your balance is ", power)
-#     else:
-#         print("wrong answer you lost your money")
-#         power = 60000000
-#     print(" ********* so the next question is below *********")
-#     print("Who wrote the play 'Romeo and Juliet'?")
-#     inp = input("enter your answer : ")
-#     if inp in ans:
-#         print("hurray you won 1000 rs")
-#         power = power + 1000
-#         print("your balance is ", power)
-#     else:
-#         print("wrong answer you lost your money")
-#         power = 60000000
-#
-# else:
-#     print("sorry but you are out")
