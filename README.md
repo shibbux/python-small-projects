@@ -20,18 +20,19 @@ To get started with these programs, make sure you have Python installed on your 
 1. Clone this repository:
 ```bash
   git clone https://github.com/shibbux/python-small-projects.git
+```
 
 2. Navigate to the directory:
 ```bash
   cd python-small-projects
-
+```
 ## 📖 Usage
 
 To run any of the programs, simply use the following command in your terminal:
 
 ```bash
   python program_name.py
-
+```
 
 ## 🎉 Contributing
 
